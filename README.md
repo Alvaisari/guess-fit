@@ -17,7 +17,7 @@ Clone the Repository:
 
 ```
 git clone https://github.com/Alvaisari/guess-fit.git
-cd spectrum-fitting-app
+cd guess-fit
 ```
 Ensure you have Conda installed, then create the environment:
 ```
